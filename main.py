@@ -1,6 +1,4 @@
-import os
 import random
-import numpy as np
 
 def flatten(arr):
     new = []
